@@ -1,0 +1,9 @@
+{
+  "name": "movie-review-api",
+  "version": "1.0.0",
+  "description": "Movie Review API using Node.js http and fs modules",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
